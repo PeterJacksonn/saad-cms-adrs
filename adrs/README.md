@@ -2,4 +2,4 @@
 
 | ID   | Title                     | Status      |
 |------|---------------------------|-------------|
-| 001  | System Architecture       | Accepted    |
+| 001  | System Architecture       | In progress |
