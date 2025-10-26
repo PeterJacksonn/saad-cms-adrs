@@ -1,5 +1,4 @@
-# {short title, representative of solved problem and found solution}
-# Architectural Style
+# Use a Monolithic Architectural Style for the CMS
 
 ## Context and Problem Statement
 

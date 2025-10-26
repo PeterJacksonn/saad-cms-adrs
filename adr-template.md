@@ -1,7 +1,3 @@
-# Template for Architectural Decision Records:
-
----
-
 # {short title, representative of solved problem and found solution}
 
 ## Context and Problem Statement
